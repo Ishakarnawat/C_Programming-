@@ -1,5 +1,6 @@
 //write a program which accept number from user and count Frequency of such a digits which are less than 6 .
 #include <stdio.h>
+#include <stdlib.h>
 
 int CountDigits(int iNo)
 {
